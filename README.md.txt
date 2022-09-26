@@ -3,7 +3,8 @@ EXPENSES API using EXPRESS JS , MONGODB , MONGOOSE
 
 I have also attached screenshot of working in folder #screenshots
 
-just use command ' npm start ' to test/use expenses api
+1. npm install  -- // (to install all node modules)
+2. npm start   ---- //(to start server.js or just command: node server.js) 
 
 
 github repo : https://github.com/Bhishek-Parmar/expenses
